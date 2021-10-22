@@ -7,3 +7,8 @@ Below is a list of links used to navigate this site to explore some information 
 - [Code Samples](./Code_Samples.md)
 - [My Hobbies](./Hobbies.md)
 - [My Goals](./Goals.md)
+
+AboutMe.md
+# **About Me**
+## Who am I?
+If you didn't catch it already, my name is Justin Henson and I go to school at Univeristy of Missouri, Columbia, currently pursuing a Bachelors in Information Technology. 
