@@ -82,7 +82,7 @@ while(choice=='y'or choice=='Y'):
    print("Volume of the cylinder: ",volume)
    choice=input("Do u want to continue for another calculation if yes enter[y] else enter any key to exit:")
 ```
-[return to home](./README.md)
+[Go back to home page](./README.md)
 
 Goals.md
 
@@ -96,5 +96,5 @@ Goals.md
 
 These are some goals that I have made for myself since Fall semester started, and I work towards them everyday. I have found that setting goals for big things like school grades, or small things like going to see a concert, help me achieve a better balance in my life.
 
-[return to home](./README.md)
+[Go back to home page](./README.md)
 
